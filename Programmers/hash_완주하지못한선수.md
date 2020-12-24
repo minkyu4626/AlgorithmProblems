@@ -1,7 +1,8 @@
 ## 완주하지 못한 선수
 - 유형 : hash table 문제
-- 문제 설명
-  - 링크 : <https://programmers.co.kr/learn/courses/30/lessons/42576#>
+- 문제 설명 : <https://programmers.co.kr/learn/courses/30/lessons/42576#>
+- 출처 : <https://programmers.co.kr/learn/challenges>
+- 날짜 : 2020.12.21
 
 - 코드
 ```cpp
